@@ -20,6 +20,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/mandrill-api" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/mongoose" type="javaScript">
       <CLASSES />
       <SOURCES />
